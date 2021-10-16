@@ -81,8 +81,8 @@ body {
   }
   
   .hero-form h3 {
-      font-size: 20px;
-      margin: 0px;
+      font-size: 24px;
+      margin: 0;
 
   }
 
@@ -97,11 +97,11 @@ body {
     font-size: 16px;
     color: #024e76;
     width: 100%;
-    margin-bottom: 15px 
+    margin-bottom: 15px;
   }
 
   .hero-form label {
-      margin: 0 5px
+      margin: 0 5px;
   }
 
   .hero-form button {
