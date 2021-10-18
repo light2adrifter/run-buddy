@@ -78,6 +78,7 @@ body {
     position: absolute;
     bottom: 120px;
     right: 140px;
+    border-radius: 15px;
   }
   
   .hero-form h3 {
@@ -98,6 +99,7 @@ body {
     color: #024e76;
     width: 100%;
     margin-bottom: 15px;
+    border-radius: 10px;
   }
 
   .hero-form label {
